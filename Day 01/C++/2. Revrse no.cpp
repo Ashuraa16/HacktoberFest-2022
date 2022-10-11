@@ -11,7 +11,9 @@ int main(){
     m = n%10;
     ans = ans*10 + m;
     n=n/10;
+    
 
   }
 cout<<ans;
+  cout<<"cool";
 }
